@@ -11,7 +11,7 @@
   
 - 📚 Técnica en Programación recibida en la Universidad Tecnológica Nacional. 
   
-- 💼 Actualmente trabando en ![Pigmalion Software](https://www.pigmalion.com.ar/).
+- 💼 Actualmente trabajando en ![Pigmalion Software](https://www.pigmalion.com.ar/).
   
 - <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='20'/> Estoy trabajando principalmente en proyectos con Java.
   
