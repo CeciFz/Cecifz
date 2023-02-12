@@ -1,4 +1,13 @@
 ### Hi there 👋
+<p align="center"><a href="https://Cecifz.github.io"><img width="80%" alt="Hola, soy Ceci!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+**Acerca de mí**
+
+📚 Tecnica en Programación - UTN 
+
+💼 Software Developer en [Pigmalion] (https://www.pigmalion.com.ar/)
 
 <!--
 **Cecifz/Cecifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
