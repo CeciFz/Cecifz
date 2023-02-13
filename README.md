@@ -9,7 +9,7 @@
 
  ## SOBRE MI
   
-- 📚 Técnica en Programación recibida en la Universidad Tecnológica Nacional. 
+- 📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. 
   
 - 💼 Actualmente trabajando en ![Pigmalion Software](https://www.pigmalion.com.ar/).
   
