@@ -11,11 +11,11 @@
   
 - 📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. 
   
-- 💼 Actualmente trabajando en ![Pigmalion Software](https://www.pigmalion.com.ar/).
+- 💼 Actualmente trabajando en ![Chattigo](https://www.chattigo.com/).
   
-- <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='20'/> Estoy trabajando principalmente en proyectos con Java.
+- <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='20'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' width='20'/> Estoy trabajando principalmente en proyectos con Java y poco a poco con Golang también.
   
-- <img alt="Logo React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> También colaboro en el front utilizando React Js.
+- <img alt="Logo SpringBoot - Webflux" height="20" src="https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png"> Actualmente trabajo con  Spring boot y Webflux.
   
 - <img alt="Cecilia Fernandez LinkedIN" width="18px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> Podes contactarme a través de ![LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
 
