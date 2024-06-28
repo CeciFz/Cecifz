@@ -9,22 +9,38 @@
 
  ## SOBRE MI
   
-- 📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. 
+- 📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. Este 2024 estoy finalizando la Licenciatura en Sistemas de la UBA.
   
-- 💼 Actualmente trabajando en ![Chattigo](https://www.chattigo.com/).
+- 💼 Actualmente trabajando en [Chattigo](https://www.chattigo.com). 
   
 - <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='25'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' height='20' height='30'/> Estoy trabajando principalmente en proyectos con Java y comenzando a utilizar Golang también.
   
 - <img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40'> También estoy utilizando SpringBoot y Webflux.
+
+- <img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='25'/> <img alt="Logo Mongodb" height='30' src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='40'> Bases de datos relacionales y no relacionales.
   
-- <img alt="Cecilia Fernandez LinkedIN" width="18px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> Podes contactarme a través de ![LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
+- <img alt="Cecilia Fernandez LinkedIN" width="18px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> Podes contactarme a través de [LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
 
 </div>
 
 <br />
 
-## TECNOLOGIAS
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img height="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">  <img alt="Logo SpringBoot - Webflux" src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' Z height="30" >  <img height="30" src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png"> <img height="30" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png">  <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' height='30'/>   <img height="30" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> <img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,6 +48,9 @@
 
 
 <!--
+## TECNOLOGIAS
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img height="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">  <img alt="Logo SpringBoot - Webflux" src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' Z height="30" >  <img height="30" src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png"> <img height="30" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png">  <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' height='30'/>   <img height="30" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> <img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
 **Cecifz/Cecifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 <div align="center">
