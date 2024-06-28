@@ -23,9 +23,9 @@
 
 <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' width='30' /> Estoy trabajando principalmente en proyectos con Java y comenzando a utilizar Golang también.
   
-<img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40' height='20'> También estoy utilizando SpringBoot y Webflux.
+<img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40' height='25'>   También estoy utilizando SpringBoot y Webflux.
 
-<img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='22'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='15'> Bases de datos relacionales y no relacionales.
+<img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='22'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='15'>  Bases de datos relacionales y no relacionales.
 
 
 <br/>
