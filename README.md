@@ -12,7 +12,7 @@
   
 - 📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. Este 2024 estoy finalizando la Licenciatura en Sistemas de la UBA.
   
-- 💼 Actualmente trabajando en [Chattigo](https://www.chattigo.com).
+- 💼 Actualmente trabajo en [Chattigo](https://www.chattigo.com).
 
 - 👩‍💻 Enfocada en continuar perfeccionando mis habilidades como desarrolladora Backend.
   
@@ -25,10 +25,11 @@
   
 - <img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40' height='20'> También estoy utilizando SpringBoot y Webflux.
 
-- <img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='20'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='20'> Bases de datos relacionales y no relacionales.
+- <img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='25'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='15'> Bases de datos relacionales y no relacionales.
 
 
 <br/>
+
  ## CONTACTO
   
 - <img alt="Cecilia Fernandez LinkedIN" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> A través de mi [LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
