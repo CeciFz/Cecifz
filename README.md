@@ -12,20 +12,23 @@
   
 - 📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. Este 2024 estoy finalizando la Licenciatura en Sistemas de la UBA.
   
-- 💼 Actualmente trabajando en [Chattigo](https://www.chattigo.com){:target="_blank"}.
+- 💼 Actualmente trabajando en [Chattigo](https://www.chattigo.com).
 
 - 👩‍💻 Enfocada en continuar perfeccionando mis habilidades como desarrolladora Backend.
   
 
-## TECNOLOGIAS PRINCIPALES
 
-- <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='25'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' height='20' height='30'/> Estoy trabajando principalmente en proyectos con Java y comenzando a utilizar Golang también.
-  
-- <img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40'> También estoy utilizando SpringBoot y Webflux.
+# TECNOLOGIAS PRINCIPALES
 
-- <img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='25'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='25'> Bases de datos relacionales y no relacionales.
+- <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' width='30' /> Estoy trabajando principalmente en proyectos con Java y comenzando a utilizar Golang también.
   
-- <img alt="Cecilia Fernandez LinkedIN" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> Podes contactarme a través de [LinkedIN](https://www.linkedin.com/in/cecilia-fz/){:target="_blank"}.
+- <img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40' height='20'> También estoy utilizando SpringBoot y Webflux.
+
+- <img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='20'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='20'> Bases de datos relacionales y no relacionales.
+
+
+  
+- <img alt="Cecilia Fernandez LinkedIN" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> Podes contactarme a través de [LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
 
 </div>
 
