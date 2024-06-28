@@ -17,10 +17,9 @@
 - 👩‍💻 Enfocada en continuar perfeccionando mis habilidades como desarrolladora Backend.
   
 <br/>
-<br/>
 
 
-### TECNOLOGIAS PRINCIPALES
+## TECNOLOGIAS PRINCIPALES
 
 - <img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' width='30' /> Estoy trabajando principalmente en proyectos con Java y comenzando a utilizar Golang también.
   
@@ -30,9 +29,9 @@
 
 
 <br/>
-<br/>
+ ## CONTACTO
   
-- <img alt="Cecilia Fernandez LinkedIN" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> Podes contactarme a través de [LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
+- <img alt="Cecilia Fernandez LinkedIN" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> A través de mi [LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
 
 </div>
 
