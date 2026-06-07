@@ -1,42 +1,77 @@
-
 <div>
-<h2> <strong> ¡Hola! soy Ceci </strong><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
-<br/>
-<div align="center" > <img src="https://user-images.githubusercontent.com/71801223/218316675-6de62755-bc77-44b2-a057-9036c3f701ac.png"/> </div>
+<h2>
+  <strong>¡Hola! Soy Ceci</strong>
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+</h2>
 
-<div >
-<br/>
+### Backend Developer | Kotlin | Java | Spring Boot | WebFlux | Microservices
 
-## SOBRE MI
-  
-📚 Técnica en Programación egresada de la Universidad Tecnológica Nacional. Este 2024 estoy finalizando la Licenciatura en Sistemas de la UBA.
-  
-💼 Actualmente trabajo en [Chattigo](https://www.chattigo.com).
-
-👩‍💻 Enfocada en continuar perfeccionando mis habilidades como desarrolladora Backend.
-  
-<br/>
-
-
-## TECNOLOGIAS PRINCIPALES
-
-<img alt="Logo Java" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img alt="Logo Go" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png' width='30' /> Estoy trabajando principalmente en proyectos con Java y comenzando a utilizar Golang también.
-  
-<img alt="Logo SpringBoot - Webflux" height='30' src='https://miro.medium.com/v2/resize:fit:535/1*mkW61vl-EHTybmKYlHpmHg.png' width='40' height='25'>   También estoy utilizando SpringBoot y Webflux.
-
-<img alt="Logo SQL" src='https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png' width='22'/> <img alt="Logo Mongodb" src='https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg' width='15'>  Bases de datos relacionales y no relacionales.
-
-
-<br/>
-
-## CONTACTO
-  
-<img alt="Cecilia Fernandez LinkedIN" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/> A través de mi [LinkedIN](https://www.linkedin.com/in/cecilia-fz/).
+Building reactive backend solutions with Kotlin and Spring technologies.
 
 </div>
 
-<br />
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71801223/218316675-6de62755-bc77-44b2-a057-9036c3f701ac.png"/>
+</div>
+
+<br/>
+
+## 👩‍💻 About
+
+📚 Technical Degree in Programming (UTN) and Bachelor's Degree in Information Systems (UBA).
+
+💼 Backend Developer at [Directo](https://www.directo.com.ar/).
+
+⚙️ Specialized in reactive microservices and distributed systems using Kotlin, Spring Boot, and WebFlux.
+
+🚀 Interested in backend engineering, software architecture, distributed systems, and continuous learning.
+
+<br/>
+
+## 🛠️ Main Technologies
+
+### Backend
+
+<img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30"/>
+<img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
+
+Kotlin and Java for backend application development.
+
+### Frameworks
+
+<img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30"/>
+
+Spring Boot and WebFlux for reactive APIs and microservices.
+
+### Databases
+
+<img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/>
+<img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="30"/>
+<img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
+
+Experience working with relational and NoSQL databases.
+
+### Messaging & Architecture
+
+<img alt="RabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="30"/>
+
+Asynchronous messaging, event-driven systems, microservices, and hexagonal architecture.
+
+<br/>
+
+## 📫 Contact
+
+<img alt="LinkedIn" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/>
+
+Connect with me on LinkedIn:
+
+👉 https://www.linkedin.com/in/cecilia-fz/
+
+</div>
+
+
 
 
 
