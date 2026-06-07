@@ -32,32 +32,17 @@ Building reactive backend solutions with Kotlin and Spring technologies.
 
 ## 🛠️ Main Technologies
 
-### Backend
+<p>
+  <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img alt="RabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
+</p>
 
-<img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30"/>
-<img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
-
-Kotlin and Java for backend application development.
-
-### Frameworks
-
-<img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30"/>
-
-Spring Boot and WebFlux for reactive APIs and microservices.
-
-### Databases
-
-<img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/>
-<img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="30"/>
-<img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
-
-Experience working with relational and NoSQL databases.
-
-### Messaging & Architecture
-
-<img alt="RabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="30"/>
-
-Asynchronous messaging, event-driven systems, microservices, and hexagonal architecture.
+Kotlin • Java • Spring Boot • WebFlux • PostgreSQL • Redis • MongoDB • RabbitMQ
 
 <br/>
 
