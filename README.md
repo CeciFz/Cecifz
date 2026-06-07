@@ -13,7 +13,7 @@ Building reactive backend solutions with Kotlin and Spring technologies.
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71801223/218316675-6de62755-bc77-44b2-a057-9036c3f701ac.png"/>
+  <img width="80%" src="https://user-images.githubusercontent.com/71801223/218316675-6de62755-bc77-44b2-a057-9036c3f701ac.png"/>
 </div>
 
 <br/>
@@ -33,13 +33,13 @@ Building reactive backend solutions with Kotlin and Spring technologies.
 ## 🛠️ Main Technologies
 
 <p>
-  <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img alt="RabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
+  <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30"/>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
+  <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/>
+  <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="30"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
+  <img alt="RabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="30"/>
 </p>
 
 Kotlin • Java • Spring Boot • WebFlux • PostgreSQL • Redis • MongoDB • RabbitMQ
@@ -47,8 +47,6 @@ Kotlin • Java • Spring Boot • WebFlux • PostgreSQL • Redis • MongoDB
 <br/>
 
 ## 📫 Contact
-
-<img alt="LinkedIn" width="20px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff"/>
 
 Connect with me on LinkedIn:
 
